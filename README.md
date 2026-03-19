@@ -1,2 +1,3 @@
-# smart-news-aggregator-nrx0
-Automated issue comment bot repository
+# Smart News Aggregator Nrx0
+
+Automated issue comment bot repository.
